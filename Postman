@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "21d9e172-442d-45ec-93f9-d42d5b73d02c",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Получение всех подходящих обращений",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "получение одного наиболее подходящего обращения",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
